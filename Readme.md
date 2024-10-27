@@ -11,8 +11,8 @@ Nhóm tôi quyết định thu thập và trực quan hóa dữ liệu đề tà
     - [Explanation](#explanation)
   - [Usage](#usage)
 ## Folder Structure
-.
-├── data
+.  
+├── data  
 │   ├── birth by county.xlsx  
 │   ├── gender.xlsx  
 │   ├── immigrate.xlsx  
